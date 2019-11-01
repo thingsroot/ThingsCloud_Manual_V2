@@ -60,7 +60,6 @@
   * [企业成员管理](admin_guide/GUIDE.md)
   * [企业资源管理](GUIDE.md)
 
-
 * 开发者指南
   * [FreeIOE应用开发](GUIDE.md)
     * [概览](developer_guide/GUIDE.md)
