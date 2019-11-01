@@ -1,0 +1,48 @@
+{
+    "plugins": [
+        "hide-element",
+        "back-to-top-button",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "tbfed-pagefooter",
+        "-sharing",
+        "sharing-plus",
+        "-pageview-count"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 2019 冬笋科技",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "theme-default": {
+            "showLevel": true
+       },
+        "sharing": {
+            "facebook": false,
+            "google": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "twitter": false,
+            "weibo": true,
+            "all": [
+                "facebook",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "weibo",
+                "messenger",
+                "qq",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    }
+}
