@@ -58,8 +58,8 @@
     * [串口远程编程](GUIDE.md)
 
 * 管理员指南
-  * [企业成员管理](admin_guide/GUIDE.md)
-  * [企业资源管理](GUIDE.md)
+  * [企业成员管理](admin_guide/member-manager.md)
+  * [企业资源管理](admin_guide/resource-manager.md)
 
 
 * 开发者指南
