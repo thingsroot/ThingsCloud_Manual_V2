@@ -1,6 +1,6 @@
 # 网关安装&接线
 
-本节以智能银盒C202为例进行说明，其他型号请参阅网关对应的出厂说明。如你在使用其他型号的ThingsLink网关或使用FreeIOE虚拟机，可跳过本节，直接阅读 [注册&登录](quick_start/register-and-login.md)或其他章节。
+本节以智能银盒C202为例进行说明，其他型号请参阅网关对应的出厂说明。如你在使用其他型号的ThingsLink网关或使用FreeIOE虚拟机，可跳过本节，直接阅读 [注册&登录](quick_start/register-and-login.md) 部分或其他章节。
 
 ### 安装SIM卡
 
@@ -68,4 +68,4 @@ LAN2口默认设置为DHCP，属于防火墙WAN区。<br/>
 
 第三步：网关上电后，PWR指示灯为绿色常亮，RUN指示灯为绿色并闪烁。<br/>
 
-
+接下来，了解一下[网关默认配置&指示灯说明](Gate-indicator-light.md)

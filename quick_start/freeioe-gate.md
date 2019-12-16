@@ -49,8 +49,8 @@ FreeIOE虚拟机的下载地址如下：
 8. 在虚拟器中ping一下冬笋云地址(cloud.thingsroot.com)，如能ping通，则表明FreeIOE虚拟机已经可连接到冬笋云了；如不能ping通，检查一下你的主机是否可以访问冬笋云，或者FreeIOE虚拟机的设置中第二块网卡不是NAT模式，或者FreeIOE虚拟机中网络接口关联的网络顺序反了。
 
 ![](imgs/2019-12-12-19-01-13.png)
-   
-9.  浏览器中输入在Console模式中看到的eth1的IP地址，可访问freeioe的系统管理页面，在浏览器中输入eth1的IP地址并在后增加":8808"。输入默认用户名/密码：admin/admin1。可访问FreeIOE的管理页面。
+
+- [ ] 浏览器中输入在Console模式中看到的eth1的IP地址，可访问freeioe的系统管理页面，在浏览器中输入eth1的IP地址并在后增加":8808"。输入默认用户名/密码：admin/admin1。可访问FreeIOE的管理页面。
 
 ![](imgs/2019-12-12-19-00-19.png)
 
@@ -58,4 +58,4 @@ FreeIOE虚拟机的下载地址如下：
 
 ![](imgs/2019-12-12-18-57-21.png)
 
-以上就是FreeIOE虚拟机的搭建过程。
+以上就是FreeIOE虚拟机的搭建过程。接下来，搭建一个[工业设备/模拟器](device-simulator.md)的环境。

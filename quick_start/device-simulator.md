@@ -48,3 +48,4 @@ Prosys-OPC-UA-Simulation：[http://thingscloud.oss-cn-beijing.aliyuncs.com/downl
 
 Prosys-OPC-UA-Client：[http://thingscloud.oss-cn-beijing.aliyuncs.com/download/prosys-opc-ua-client-2.3.2.exe](http://thingscloud.oss-cn-beijing.aliyuncs.com/download/prosys-opc-ua-client-2.3.2.exe)
 
+如是使用ThingsLink网关智能银盒C202 进行快速入门的测试，我们看一看智能银盒C202的[安装&接线&联网](Gate-installation.md);如是使用FreeIOE虚拟机，直接进入[注册&登录](register-and-login.md)这一节。

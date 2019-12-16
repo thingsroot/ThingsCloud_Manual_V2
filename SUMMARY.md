@@ -23,27 +23,27 @@
     * [应用场景](introduction/FreeIOE/scenario.md)
     * [名词解释](introduction/FreeIOE/glossary.md)
 
-* 快速入门
-  * [入门概述](quick_start/README.md)
+* [快速入门](quick_start/README.md)
   * [准备工作](quick_start/prepear.md)
     * [ThingsLink网关/FreeIOE虚拟机](quick_start/freeioe-gate.md)
     * [工业设备/模拟器](quick_start/device-simulator.md)
-  * 网关安装连接
+  * [网关安装连接](quick_start/Gate-intro.md)
     * [网关安装&接线](quick_start/Gate-installation.md)
     * [网关默认配置&指示灯说明](quick_start/Gate-indicator-light.md)
     * [网关Internet联网配置](quick_start/Gate-link-internet.md)
   * [注册&登录](quick_start/register-and-login.md)
   * [绑定网关](quick_start/Gate-bind.md)
-  * 配置网关
+  * [配置网关](quick_start/Gate-config-demo.md)
+    * [演示应用场景介绍](quick_start/Demo-scene-intro.md)
     * [查找适合设备的应用](quick_start/find-freeioeapp.md)
     * [参考样例创建设备模板](quick_start/creat-templete.md)
     * [采集设备数据](quick_start/data-collection.md)
     * [查看设备数据](quick_start/data-view.md)
-    * [设备数据转发业务平台](quick_start/data-forward.md)
-    * [在业务平台中验证数据](quick_start/data-verify.md)
+    * [设备数据转发MQTT平台](quick_start/data-forward.md)
+    * [在MQTT平台中验证数据](quick_start/data-verify.md)
   * [可能遇到的问题](quick_start/possliable-problem.md)
 
-* 用户指南
+* [用户指南](user_guide/README.md)
   * [网关绑定&管理](user_guide/GUIDE.md)
   * [如何选择正确的应用](GUIDE.md)
   * [应用安装&配置](GUIDE.md)
@@ -66,21 +66,21 @@
     * [网关网络配置](GUIDE.md)
   * [虚拟网关的使用](GUIDE.md)
 
-* 管理员指南
+* [管理员指南](admin_guide/README.md)
   * [企业账户申请](admin_guide/member-apply.md)
   * [企业成员管理](admin_guide/member-manager.md)
   * [企业资源管理](admin_guide/resource-manager.md)
 
 
 * 开发者指南
-  * [FreeIOE应用开发](GUIDE.md)
+  * [FreeIOE应用开发](https://freeioe.gitbook.io/doc/)
     <!-- * [概览](developer_guide/GUIDE.md)
     * [环境搭建](GUIDE.md)
     * [快速上手](GUIDE.md)
     * [应用接口](GUIDE.md)
-    * [其他资料](GUIDE.md) -->
+    * [其他资料](GUIDE.md)
   * [平台API参考](GUIDE.md)
-    <!-- * [概览](GUIDE.md)
+    * [概览](GUIDE.md)
     * [鉴权规则](GUIDE.md)
     * [网关统计数据](GUIDE.md)
     * [名下网关管理](GUIDE.md)
