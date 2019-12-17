@@ -1,48 +1,100 @@
 {
-    "plugins": [
-        "hide-element",
-        "back-to-top-button",
-        "-lunr",
-        "-search",
-        "search-pro",
-        "tbfed-pagefooter",
-        "-sharing",
-        "sharing-plus",
-        "-pageview-count"
+    "gitbook": "3.x.x",
+    "plugins": ["favicon", "yahei", "autotheme", "-lunr", "-search",
+        "search-plus", "prism", "-highlight",  "splitter",
+        "-sharing", "sharing-plus", "tbfed-pagefooter", 
+        "book-summary-scroll-position-saver", "back-to-top-button",
+        "copy-code-button", "multipart"
     ],
     "pluginsConfig": {
-        "hide-element": {
-            "elements": [".gitbook-link"]
+        "theme-default": {
+            "showLevel": true
+        },
+        "fontSettings": {
+            "family": "serif",
+            "size": 2
+        },
+        "autotheme": {
+            "white": [9, 10, 11, 12, 13, 14, 15, 16, 17],
+            "sepia": [6, 7, 8, 18, 19],
+            "night": [20, 21, 22, 23, 0, 1, 2, 3, 4, 5]
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper", "linkedin",
+                "pocket", "stumbleupon"
+            ]
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright &copy 2019 冬笋科技",
+            "copyright": "Copyright &copy <a href='https://cloud.thingsroot.com' target='_blank'>冬笋云</a> 2019",
             "modify_label": "修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "theme-default": {
-            "showLevel": true
-       },
-        "sharing": {
-            "facebook": false,
-            "google": false,
-            "pocket": false,
-            "qq": true,
-            "qzone": true,
-            "twitter": false,
-            "weibo": true,
-            "all": [
-                "facebook",
-                "google",
-                "instapaper",
-                "linkedin",
-                "twitter",
-                "weibo",
-                "messenger",
-                "qq",
-                "qzone",
-                "viber",
-                "whatsapp"
-            ]
+        "anchor-navigation-ex": {
+            "showLevel": true,
+            "associatedWithSummary": false,
+            "printLog": false,
+            "multipleH1": true,
+            "mode": "float",
+            "showGoTop": true,
+            "float": {
+                "floatIcon": "fa fa-navicon",
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            },
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 56,
+            "bottom": 56
+        }
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "冬笋云": "https://cloud.thingsroot.com",
+            "FreeIOE社区": "https://freeioe.org",
+            "FreeIOE知识库": "https://wiki.freeioe.org"
         }
     }
 }

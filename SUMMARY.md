@@ -1,8 +1,9 @@
 # Summary
 
-* 发布记录
 
-* 产品简介
+## Part I - 产品简介
+  * [概述](README.md)
+  * [发布记录](release-log.md)
   * ThingsCloud
     * [产品简介](introduction/ThingsCloud/README.md)
     * [产品功能](introduction/ThingsCloud/function.md)
@@ -23,7 +24,8 @@
     * [应用场景](introduction/FreeIOE/scenario.md)
     * [名词解释](introduction/FreeIOE/glossary.md)
 
-* [快速入门](quick_start/README.md)
+## Part II - 快速入门
+  * [概述](quick_start/README.md)
   * [准备工作](quick_start/prepear.md)
     * [ThingsLink网关/FreeIOE虚拟机](quick_start/freeioe-gate.md)
     * [工业设备/模拟器](quick_start/device-simulator.md)
@@ -43,53 +45,34 @@
     * [在MQTT平台中验证数据](quick_start/data-verify.md)
   * [可能遇到的问题](quick_start/possliable-problem.md)
 
-* [用户指南](user_guide/README.md)
-  * [网关绑定&管理](user_guide/README.md)
-  * [如何选择正确的应用](README.md)
-  * [应用安装&配置](README.md)
-  * [应用管理&升级](README.md)
-  * [网关设置&固件升级](README.md)
-  * [设备通讯调试&诊断](README.md)
-  * [设备数据查看&下置](README.md)
-  * [平台操作记录跟踪](README.md)
-  * [设备事件记录跟踪](README.md)
-  * [网关联网记录跟踪](README.md)
-  * [网关扩展功能](README.md)
-  * [应用市场](README.md)
-  * [我的应用](README.md)
-    * [开发者申请](README.md)
-    * [个人应用管理](README.md)
-    * [平台应用克隆](README.md)
-    * [平台应用收藏](README.md)
-    * [应用设备模版](README.md)
-  * [虚拟网关的使用](README.md)
+## Part III - 用户指南
+  * [概述](user_guide/README.md)
+  * [网关绑定&管理](user_guide/Gatr-bind.md)
+  * [如何选择正确的应用](user_guide/Gate-find-app.md)
+  * [应用安装&配置](user_guide/Gate-app-install.md)
+  * [应用管理&升级](user_guide/Gate-app-manager.md)
+  * [网关设置&固件升级](user_guide/Gate-settings.md)
+  * [设备通讯调试&诊断](user_guide/comm-debug-diag.md)
+  * [设备数据查看&下置](user_guide/data-view-set.md)
+  * [平台操作记录跟踪](user_guide/cloud-opration-log.md)
+  * [设备事件记录跟踪](user_guide/device-event-log.md)
+  * [网关联网记录跟踪](user_guide/Gate-connect-log.md)
+  * [网关扩展功能](user_guide/Gate-extended-function.md)
+  * [应用市场](user_guide/app-marketplace.md)
+  * [我的应用](user_guide/my-app.md)
+    * [开发者申请](user_guide/developer-apply.md)
+    * [原创的应用](user_guide/my-app-manager.md)
+    * [克隆的应用](user_guide/my-fork-app.md)
+    * [收藏的应用](user_guide/my-favorite-app.md)
+    * [应用设备模版](user_guide/my-app-template.md)
+  * [虚拟网关的使用](user_guide/FreeIOE-VM.md)
 
-* [管理员指南](admin_guide/README.md)
+## Part IV - 管理员指南
+  * [概述](admin_guide/README.md)
   * [企业账户申请](admin_guide/member-apply.md)
   * [企业成员管理](admin_guide/member-manager.md)
   * [企业资源管理](admin_guide/resource-manager.md)
 
 
-* 开发者指南
+## Part V - 开发者指南
   * [FreeIOE应用开发](https://freeioe.gitbook.io/doc/)
-    <!-- * [概览](developer_guide/GUIDE.md)
-    * [环境搭建](GUIDE.md)
-    * [快速上手](GUIDE.md)
-    * [应用接口](GUIDE.md)
-    * [其他资料](GUIDE.md)
-  * [平台API参考](GUIDE.md)
-    * [概览](GUIDE.md)
-    * [鉴权规则](GUIDE.md)
-    * [网关统计数据](GUIDE.md)
-    * [名下网关管理](GUIDE.md)
-    * [网关实例管理](GUIDE.md)
-    * [日志&事件管理](GUIDE.md)
-    * [组织成员管理](GUIDE.md)
-    * [应用发布管理](GUIDE.md) -->
-
-
-* [最佳实践](PRACTICE.md)
-
-* [视频专区](PRACTICE.md)
-
-* [常见问题](FAQ.md)

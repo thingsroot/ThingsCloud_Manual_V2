@@ -41,7 +41,7 @@
 
 ![](imgs/2019-12-16-15-04-27.png)
 
-| 主题                       | TRTX011935000013/data                       |
+| 主题                       | 000FB6BDAE/data                       |
 | :-------------------------- | :------------------------- |
 | 类型          | 订阅  |
 | 接收内容        | [ [ "000FB6BDAE\/cpuload\/value",0.18,1576480007.91,0 ] ] |
@@ -75,4 +75,4 @@
 
 发布消息时可以订阅主题 {gateway_sn}/result/output 来获取应用执行返回值。
 
-快速入门到此就结束了，如您按照本《快速入门》已经完成了本次演示场景所有的体验，那说明你已掌握了FreeIOE网关基本的使用。你可以继续阅读更详细的使用手册  [用户指南](../user_guide/README.md)， [管理员指南](../admin_guide/README.md)， [FreeIOE应用开发](https://freeioe.gitbook.io/doc/) 等文档更加深入的了解FreeIOE和冬笋云。
+快速入门到此就结束了，如您按照本《快速入门》已经完成了本次演示场景所有的体验，那说明你已掌握了冬笋云管理网关基本的使用。你可以继续阅读更详细的使用手册  [用户指南](../user_guide/README.md)， [管理员指南](../admin_guide/README.md)， [FreeIOE应用开发](https://freeioe.gitbook.io/doc/) 等文档更加深入的了解FreeIOE和冬笋云。
