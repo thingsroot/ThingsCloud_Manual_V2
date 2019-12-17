@@ -4,25 +4,25 @@
 ## Part I - 产品简介
   * [概述](README.md)
   * [发布记录](release-log.md)
-  * ThingsCloud
+  * [ThingsCloud](introduction/ThingsCloud/SUMMARY.md)
     * [产品简介](introduction/ThingsCloud/README.md)
     * [产品功能](introduction/ThingsCloud/function.md)
     * [产品优势](introduction/ThingsCloud/advantage.md)
     * [架构说明](introduction/ThingsCloud/framework.md)
     * [应用场景](introduction/ThingsCloud/scenario.md)
     * [名词解释](introduction/ThingsCloud/glossary.md)
-  * ThingsLink
-    * [产品简介](introduction/ThingsLink/README.md)
-    * [产品优势](introduction/ThingsLink/advantage.md)
-    * [应用场景](introduction/ThingsLink/scenario.md)
-    * [名词解释](introduction/ThingsLink/glossary.md)
-  * FreeIOE
+  * [FreeIOE](introduction/FreeIOE/SUMMARY.md)
     * [产品简介](introduction/FreeIOE/README.md)
     * [产品功能](introduction/FreeIOE/function.md)
     * [产品优势](introduction/FreeIOE/advantage.md)
     * [架构说明](introduction/FreeIOE/framework.md)
     * [应用场景](introduction/FreeIOE/scenario.md)
     * [名词解释](introduction/FreeIOE/glossary.md)
+  * [ThingsLink](introduction/ThingsLink/SUMMARY.md)
+    * [产品简介](introduction/ThingsLink/README.md)
+    * [产品优势](introduction/ThingsLink/advantage.md)
+    * [应用场景](introduction/ThingsLink/scenario.md)
+    * [名词解释](introduction/ThingsLink/glossary.md)
 
 ## Part II - 快速入门
   * [概述](quick_start/README.md)
