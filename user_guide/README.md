@@ -1,7 +1,7 @@
 # 用户指南概述
 
 
-  * [dashboard](Gate-dashboard.md)
+  * [Dashboard](Gate-dashboard.md)
   * [网关绑定&属性修改](Gate-bind.md)
   * [如何选择正确的应用](Gate-find-app.md)
   * [应用安装&配置](Gate-app-install.md)

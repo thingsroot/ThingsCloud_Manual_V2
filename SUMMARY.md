@@ -47,6 +47,7 @@
 
 ## Part III - 用户指南
   * [概述](user_guide/README.md)
+  * [Dashboard](Gate-dashboard.md)
   * [网关绑定&属性修改](user_guide/Gatr-bind.md)
   * [如何选择正确的应用](user_guide/Gate-find-app.md)
   * [应用安装&配置](user_guide/Gate-app-install.md)
