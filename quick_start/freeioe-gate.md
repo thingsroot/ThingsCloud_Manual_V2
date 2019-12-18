@@ -18,7 +18,8 @@ ThingsLink网关的型号如下表：
 
 FreeIOE虚拟机的下载地址如下：
 
-[https://thingscloud.oss-cn-beijing.aliyuncs.com/download/freeioe.zip](https://thingscloud.oss-cn-beijing.aliyuncs.com/download/freeioe.zip)
+点击下载  [FreeIOE虚拟机](https://thingscloud.oss-cn-beijing.aliyuncs.com/download/freeioe.zip)
+
 
 预装了FreeIOE软件的虚拟机使用步骤如下：
 
@@ -41,4 +42,5 @@ FreeIOE虚拟机的下载地址如下：
 10. 登录冬笋云后将申请的“虚拟网关”序列号通过FreeIOE管理界面设置到云ID后并重启FreeIOE。
 ![](imgs/2019-12-12-18-57-21.png)
 
-以上就是FreeIOE虚拟机的搭建过程。接下来，搭建一个[工业设备/模拟器](device-simulator.md)的环境。
+以上就是FreeIOE虚拟机的搭建过程。<br>
+接下来，介绍如何搭建一个[工业设备/模拟器](device-simulator.md)的环境。
