@@ -43,4 +43,7 @@ FreeIOE虚拟机的下载地址如下：
 ![](imgs/2019-12-12-18-57-21.png)
 
 以上就是FreeIOE虚拟机的搭建过程。<br>
+
+[FreeIOE虚拟机安装及配置视频](http://1254404623.vod2.myqcloud.com/e9ab2701vodcq1254404623/8ea5fe445285890796668449177/brNL8lWG5pAA.mp4)
+
 接下来，介绍如何搭建一个[工业设备/模拟器](device-simulator.md)的环境。
