@@ -60,12 +60,12 @@
   * [网关联网记录跟踪](user_guide/Gate-connect-log.md)
   * [网关扩展功能](user_guide/Gate-extended-function.md)
   * [应用市场](user_guide/app-marketplace.md)
-  * [我的应用](user_guide/my-app.md)
+  * [我的应用](user_guide/my-apps.md)
     * [开发者申请](user_guide/developer-apply.md)
     * [原创的应用](user_guide/my-app-manager.md)
     * [克隆的应用](user_guide/my-fork-app.md)
     * [收藏的应用](user_guide/my-favorite-app.md)
-    * [应用设备模版](user_guide/my-app-template.md)
+    * [应用设备模板](user_guide/my-app-template.md)
   * [虚拟网关的使用](user_guide/FreeIOE-VM.md)
 
 ## Part IV - 管理员指南
