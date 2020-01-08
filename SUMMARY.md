@@ -1,7 +1,5 @@
 # Summary
-
-  * [发布记录](release-log.md)
-  
+ 
 ## Part I - 快速入门
   * [概述](quick_start/README.md)
   * [准备工作](quick_start/prepear.md)
