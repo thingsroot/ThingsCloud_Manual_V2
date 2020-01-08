@@ -1,28 +1,9 @@
 # Summary
- 
-## Part I - 快速入门
-  * [概述](quick_start/README.md)
-  * [准备工作](quick_start/prepear.md)
-    * [ThingsLink网关/FreeIOE虚拟机](quick_start/freeioe-gate.md)
-    * [工业设备/模拟器](quick_start/device-simulator.md)
-  * [网关安装连接](quick_start/Gate-intro.md)
-    * [网关安装&接线](quick_start/Gate-installation.md)
-    * [网关默认配置&指示灯说明](quick_start/Gate-indicator-light.md)
-    * [网关Internet联网配置](quick_start/Gate-link-internet.md)
-  * [注册&登录](quick_start/register-and-login.md)
-  * [绑定网关](quick_start/Gate-bind.md)
-  * [配置网关](quick_start/Gate-config-demo.md)
-    * [演示应用场景介绍](quick_start/Demo-scene-intro.md)
-    * [查找适合设备的应用](quick_start/find-freeioeapp.md)
-    * [参考样例创建设备模板](quick_start/creat-templete.md)
-    * [采集设备数据](quick_start/data-collection.md)
-    * [查看设备数据](quick_start/data-view.md)
-    * [设备数据转发MQTT平台](quick_start/data-forward.md)
-    * [在MQTT平台中验证数据](quick_start/data-verify.md)
-  * [可能遇到的问题](quick_start/possliable-problem.md)
 
-## Part II - 产品简介
+
+## Part I - 产品简介
   * [概述](README.md)
+  * [发布记录](release-log.md)
   * [ThingsCloud](introduction/ThingsCloud/SUMMARY.md)
     * [产品简介](introduction/ThingsCloud/README.md)
     * [产品功能](introduction/ThingsCloud/function.md)
@@ -42,6 +23,27 @@
     * [产品优势](introduction/ThingsLink/advantage.md)
     * [应用场景](introduction/ThingsLink/scenario.md)
     * [名词解释](introduction/ThingsLink/glossary.md)
+  
+## Part II - 快速入门
+  * [概述](quick_start/README.md)
+  * [准备工作](quick_start/prepear.md)
+    * [ThingsLink网关/FreeIOE虚拟机](quick_start/freeioe-gate.md)
+    * [工业设备/模拟器](quick_start/device-simulator.md)
+  * [网关安装连接](quick_start/Gate-intro.md)
+    * [网关安装&接线](quick_start/Gate-installation.md)
+    * [网关默认配置&指示灯说明](quick_start/Gate-indicator-light.md)
+    * [网关Internet联网配置](quick_start/Gate-link-internet.md)
+  * [注册&登录](quick_start/register-and-login.md)
+  * [绑定网关](quick_start/Gate-bind.md)
+  * [配置网关](quick_start/Gate-config-demo.md)
+    * [演示应用场景介绍](quick_start/Demo-scene-intro.md)
+    * [查找适合设备的应用](quick_start/find-freeioeapp.md)
+    * [参考样例创建设备模板](quick_start/creat-templete.md)
+    * [采集设备数据](quick_start/data-collection.md)
+    * [查看设备数据](quick_start/data-view.md)
+    * [设备数据转发MQTT平台](quick_start/data-forward.md)
+    * [在MQTT平台中验证数据](quick_start/data-verify.md)
+  * [可能遇到的问题](quick_start/possliable-problem.md)
 
 
 ## Part III - 用户指南
